@@ -9,4 +9,5 @@ The heurisitics used for the game engine were:
 - Corners
 - Mobility
 - Stability
+
 The weighting of each heurisitc was dynamically changed based on the phase of the game. i.e. mobility and corners was favoured more in the opening stages of the game whereas score parity was favoured in the end game. 
